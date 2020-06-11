@@ -1,5 +1,4 @@
 import 'package:crud_cod3r/components/user_tile.dart';
-import 'package:crud_cod3r/models/user.dart';
 import 'package:crud_cod3r/provider/users.dart';
 import 'package:crud_cod3r/routes/app_routes.dart';
 import 'package:flutter/material.dart';
